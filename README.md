@@ -1,24 +1,24 @@
-# Turbo Email Cracker
+# Buz BLE Daemon
 
-Turbo Email Cracker is a lightweight tool designed to assist with email data handling and cracking tasks.  
-It supports quick extraction, analysis, and management of email dumps and related files.
+Buz BLE Daemon is a lightweight Bluetooth Low Energy (BLE) service handler designed for syncing, controlling, and automating BLE devices through Termux.
 
 ## Features
-- Crack and analyze email data fast
-- Easy-to-use, lightweight setup
-- Great for cybersecurity research or recovery projects
+- BLE connection management
+- Remote triggering via Termux scripts
+- Buzz automation with mic or HTTP triggers
+- Lightweight and efficient
 
 ## Installation
 Clone the repository:
 ```
-git clone https://github.com/figuripv6o/turbo-email-cracker.git
-cd turbo-email-cracker
+git clone https://github.com/figuripv6o/buz_ble_daemon.git
+cd buz_ble_daemon
 ```
 
 ## Usage
-Run the Python script:
+Run the daemon:
 ```
-python3 turbo_cracker.py
+python3 buz_daemon.py
 ```
 
 ## Author
